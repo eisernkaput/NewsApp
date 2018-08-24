@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2B3D4D</color>
+    <color name="colorPrimaryDark">#23303D</color>
+    <color name="colorAccent">#10CAC9</color>
+
+    <!-- Text color for the primary location of the earthquake in the list item -->
+    <color name="textColorEarthquakeLocation">#2B3D4D</color>
+
+    <!-- color for the divider -->
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Text color for the details of the earthquake in the list item -->
+    <color name="sectionTextColor">#9FA8DA</color>
+
+    <!-- Text color for the primary location of the earthquake in the list item -->
+    <color name="timeTextColor">#1E88E5</color>
+
+    <!-- Text color for the primary location of the earthquake in the list item -->
+    <color name="dateTextColor">#64B5F6</color>
+
+    <!-- Text color for the details of the earthquake in the list item -->
+    <color name="authorTextColor">#9FA8DA</color>
+
+
+</resources>
